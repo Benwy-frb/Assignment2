@@ -1,0 +1,8 @@
+body { margin: 0; background-color: #f4f4f4; color: #222; font-family: Arial, sans-serif; }
+header { padding: 70px 20px; background-color: #222; color: white; text-align: center; }
+header h1 { margin: 0 0 10px; font-size: 42px; }
+main { max-width: 850px; margin: 50px auto; padding: 0 20px; }
+.car { display: flex; gap: 25px; margin-bottom: 30px; padding: 30px; background-color: white; }
+.car-number { min-width: 45px; font-size: 34px; font-weight: bold; color: #999; }
+.car h2 { margin-top: 0; }
+.car p { font-size: 17px; line-height: 1.7; }
